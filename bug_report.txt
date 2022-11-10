@@ -1,1 +1,8 @@
 
+
+ID - #1
+Summary - dont open site gapa.com
+AR - site dont open
+ER - site is open
+priority -high
+severity - blocker
