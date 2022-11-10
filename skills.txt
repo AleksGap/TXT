@@ -1,0 +1,10 @@
+skills:
+- Understanding of testing principles and methodologies
+- Understanding of client-server architecture
+- Experience with GitHub
+- experience in API and SQL testing
+- Experience in testing Mobile application
+- Experience in web testing
+- Experience in Bug tracking systems
+
+
